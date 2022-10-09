@@ -1,0 +1,63 @@
+\begin{thebibliography}{10}
+
+\bibitem{wang2012molecular}
+L.~Wang, {\em Molecular dynamics-theoretical developments and applications in
+  nanotechnology and energy}.
+\newblock 2012.
+
+\bibitem{mccammon1977dynamics}
+J.~A. McCammon, B.~R. Gelin, and M.~Karplus, ``Dynamics of folded proteins,''
+  {\em Nature}, vol.~267, no.~5612, p.~585, 1977.
+
+\bibitem{alder1959studies}
+B.~J. Alder and T.~E. Wainwright, ``Studies in molecular dynamics. i. general
+  method,'' {\em The Journal of Chemical Physics}, vol.~31, no.~2,
+  pp.~459--466, 1959.
+
+\bibitem{fetter2003theoretical}
+A.~L. Fetter and J.~D. Walecka, {\em Theoretical mechanics of particles and
+  continua}.
+\newblock Courier Corporation, 2003.
+
+\bibitem{huray2011maxwell}
+P.~G. Huray, {\em Maxwell's equations}.
+\newblock John Wiley \& Sons, 2011.
+
+\bibitem{curtis2013orbital}
+H.~D. Curtis, {\em Orbital mechanics for engineering students}.
+\newblock Butterworth-Heinemann, 2013.
+
+\bibitem{dehnen2011n}
+W.~Dehnen and J.~I. Read, ``N-body simulations of gravitational dynamics,''
+  {\em The European Physical Journal Plus}, vol.~126, no.~5, p.~55, 2011.
+
+\bibitem{suli2003introduction}
+E.~S{\"u}li and D.~F. Mayers, {\em An introduction to numerical analysis}.
+\newblock Cambridge university press, 2003.
+
+\bibitem{sandvik2015numerical}
+A.~W. Sandvik, ``Numerical solutions of classical equations of motion,'' {\em
+  PY Comput. Phys}, vol.~502, 2015.
+
+\bibitem{young2014leapfrog}
+P.~Young, ``The leapfrog method and other symplectic algorithms for integrating
+  newtons laws of motion,'' {\em Physics}, vol.~115, no.~242, 2014.
+
+\bibitem{kim2014issues}
+S.~Kim, ``Issues on the choice of a proper time step in molecular dynamics,''
+  {\em Physics Procedia}, vol.~53, pp.~60--62, 2014.
+
+\bibitem{skeel2009makes}
+R.~D. Skeel, ``What makes molecular dynamics work?,'' {\em SIAM Journal on
+  Scientific Computing}, vol.~31, no.~2, pp.~1363--1378, 2009.
+
+\bibitem{schrodinger1926undulatory}
+E.~Schr{\"o}dinger, ``An undulatory theory of the mechanics of atoms and
+  molecules,'' {\em Physical review}, vol.~28, no.~6, p.~1049, 1926.
+
+\bibitem{burrau1927berechnung}
+{\O}.~Burrau, ``Berechnung des energiewertes des wasserstoffmolekel-ions (h 2+)
+  im normalzustand,'' {\em Naturwissenschaften}, vol.~15, no.~1, pp.~16--17,
+  1927.
+
+\end{thebibliography}

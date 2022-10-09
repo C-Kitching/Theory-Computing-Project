@@ -1,0 +1,5 @@
+conditions
+x=10
+y=0
+Vx=0
+Vy=0.33

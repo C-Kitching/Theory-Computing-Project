@@ -1,0 +1,7 @@
+conditions
+x=10
+y=0
+Vx=0
+Vy=0.44
+t=1000
+h=1

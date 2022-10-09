@@ -1,0 +1,7 @@
+Elliptical
+t=300
+h=0.01
+x=10
+y=0
+Vx=0
+Vy=0.1
